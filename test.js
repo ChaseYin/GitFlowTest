@@ -8,9 +8,4 @@ console.log(b);
 var c = 4;
 console.log(4);
 
-let aaa = {
-  a: 123,
-  b: 456,
-  c: { a: 123 },
-};
-//branch2
+
