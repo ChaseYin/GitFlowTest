@@ -14,3 +14,7 @@ let obj = {
     a: 123,
     b: 456
 }
+
+let mainSpecified = {
+    branch: 'main'
+}
