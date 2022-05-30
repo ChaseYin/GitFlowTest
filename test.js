@@ -11,3 +11,7 @@ var c = 4;
 console.log(4);
 
 //这里是branchTest1分支，进行merge test
+let obj = {
+    a: 123,
+    b: 456
+}
